@@ -5,12 +5,12 @@ import java.util.ArrayList;
 public class EndangeredAnimal extends Animal {
   private String health;
   private int age;
-
+  // Constants
   public static final String Good = "good";
   public static final String Poor = "poor";
   public static final String isEndangered = "yes";
 
-  // Object Constructor
+  // Constructor
 
   public EndangeredAnimal(String name, String health, int age) {
     this.name = name;
