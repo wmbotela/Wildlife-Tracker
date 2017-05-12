@@ -1,10 +1,11 @@
-## Java App Template
+## Wild life Tracker
 
 By William Mbotela
 
 ## Description
+A Java web application for tracking wildlife built with Spark.
 
-A template java app folder structure for use with gradle , junit, spark and velocity.
+
 
 ##Setup/Installation Requirements
 * Clone repo
